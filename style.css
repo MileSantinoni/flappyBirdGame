@@ -31,19 +31,20 @@
 	background:radial-gradient(lightgreen 50%, green);
 	border: 5px solid black;
 }
+
 .message {
 	position: absolute;
 	z-index: 10;
-	color: black;
+	color: rgb(85, 196, 224);
 	top: 30%;
 	left: 50%;
-	font-size: 4em;
+	font-size: 2em;
 	transform: translate(-50%, -50%);
 	text-align: center;
 }
 .messageStyle{
 	background: white;
-	padding: 30px;
+	padding: 1vw;
 	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 	border-radius: 5%;
 }
